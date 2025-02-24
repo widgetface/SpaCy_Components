@@ -1,0 +1,11 @@
+[project]
+name = "spacy-components"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pip>=25.0.1",
+    "spacy>=3.8.4",
+    "spacy-lookups-data>=1.0.5",
+]
