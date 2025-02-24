@@ -1,7 +1,4 @@
-from components.clinical_abbreviation_tagger import (
-    clinical_ner_tagger,
-    CLINICAL_NER_ABREV_FUNCTION_NAME,
-)
+from components.clinical_abbreviation_tagger import clinical_ner_tagger
 import spacy
 from spacy.language import Language
 
